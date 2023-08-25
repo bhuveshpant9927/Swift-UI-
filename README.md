@@ -1,2 +1,2 @@
 # Swift-UI-
-In this repo i have done the SwiftUi implementation and various concepts 
+In this I have done the SwiftUi implementation and its various concepts 
